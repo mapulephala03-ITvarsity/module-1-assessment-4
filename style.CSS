@@ -1,0 +1,13 @@
+th{
+	background-color:red;
+}
+
+td{
+	font-weight: 500;
+	text-decoration: line-through;
+}
+
+table{
+	font-family: Helvetica, sans-serif;
+	border-collapse: collapse;
+}
