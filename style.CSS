@@ -1,5 +1,7 @@
 th{
-	background-color:red;
+	background-color:#4000FF;
+    color: #ffffff;
+    font-weight: 800; 
 }
 
 td{
@@ -10,4 +12,7 @@ td{
 table{
 	font-family: Helvetica, sans-serif;
 	border-collapse: collapse;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #4000FF;
 }
